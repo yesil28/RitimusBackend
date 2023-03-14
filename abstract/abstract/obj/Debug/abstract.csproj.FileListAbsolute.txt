@@ -1,0 +1,7 @@
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\bin\Debug\@abstract.exe.config
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\bin\Debug\@abstract.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\bin\Debug\@abstract.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\obj\Debug\@abstract.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\abstract\abstract\obj\Debug\@abstract.pdb

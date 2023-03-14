@@ -1,0 +1,7 @@
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\bin\Debug\quiz_app.exe.config
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\bin\Debug\quiz_app.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\bin\Debug\quiz_app.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\obj\Debug\quiz_app.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\obj\Debug\quiz_app.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\obj\Debug\quiz_app.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\quiz_app\quiz_app\obj\Debug\quiz_app.pdb

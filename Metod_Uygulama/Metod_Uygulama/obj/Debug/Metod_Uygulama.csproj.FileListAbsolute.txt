@@ -1,0 +1,9 @@
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\bin\Debug\Metod_Uygulama.exe.config
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\bin\Debug\Metod_Uygulama.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\bin\Debug\Metod_Uygulama.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\obj\Debug\Metod_Uygulama.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\obj\Debug\Metod_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\obj\Debug\Metod_Uygulama.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\obj\Debug\Metod_Uygulama.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\obj\Debug\Metod_Uygulama.Form1.resources
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\Metod_Uygulama\Metod_Uygulama\obj\Debug\Metod_Uygulama.csproj.GenerateResource.cache

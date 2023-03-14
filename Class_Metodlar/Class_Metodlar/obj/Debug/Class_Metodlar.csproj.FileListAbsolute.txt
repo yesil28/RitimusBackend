@@ -1,0 +1,7 @@
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\bin\Debug\Class_Metodlar.exe.config
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\bin\Debug\Class_Metodlar.exe
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\bin\Debug\Class_Metodlar.pdb
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\obj\Debug\Class_Metodlar.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\obj\Debug\Class_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\obj\Debug\Class_Metodlar.exe
+C:\Users\YEŞİL\Source\Repos\Class_Metodlar\Class_Metodlar\obj\Debug\Class_Metodlar.pdb

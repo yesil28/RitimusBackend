@@ -1,0 +1,7 @@
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\bin\Debug\static_members.exe.config
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\bin\Debug\static_members.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\bin\Debug\static_members.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\obj\Debug\static_members.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\obj\Debug\static_members.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\obj\Debug\static_members.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\static_members\static_members\obj\Debug\static_members.pdb

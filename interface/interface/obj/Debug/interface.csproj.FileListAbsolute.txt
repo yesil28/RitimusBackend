@@ -1,0 +1,7 @@
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\bin\Debug\@interface.exe.config
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\bin\Debug\@interface.exe
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\bin\Debug\@interface.pdb
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\obj\Debug\@interface.exe
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\interface\interface\obj\Debug\@interface.pdb

@@ -1,0 +1,14 @@
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\YEŞİL\Desktop\RitimUsBackEnd\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\YEŞİL\Desktop\Ritimys BackEnd Çalışmalar\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
